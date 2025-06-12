@@ -1,12 +1,12 @@
 const mensajes = [
-  "Eres mi sol en días nublados ☀️",
-  "Tu sonrisa me enamora cada día 😍",
-  "Contigo, todo es mejor 💖",
-  "Gracias por existir 🌸",
-  "Eres mi lugar favorito 💌",
-  "Nuestro amor es infinito ♾️",
-  "Cada momento contigo es mágico ✨",
-  "Te amo más que ayer y menos que mañana ❤️",
+  "Eres mi sol en días nublados ",
+  "Tu sonrisa me enamora cada día",
+  "Contigo, todo es mejor",
+  "Gracias por existir",
+  "Eres mi lugar favorito",
+  "Nuestro amor es infinito",
+  "Cada momento contigo es mágico",
+  "Te amo más que ayer y menos que mañana",
 ];
 
 const pizarra = document.getElementById('pizarra');
